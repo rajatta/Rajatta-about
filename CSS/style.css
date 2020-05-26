@@ -1,0 +1,259 @@
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Sansita', sans-serif;
+}
+a:hover {
+    color: #e85143;
+}
+#navbar {
+    display: grid;
+    min-height:55px;
+    grid-auto-flow: column;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: -100px;
+   
+}
+
+#links {
+    display: grid;
+    justify-content: end;
+    align-content: center;
+    grid-auto-flow: column;
+    font-size: 20px;
+    grid-gap: 30px;
+}
+
+.img {
+    width: 300px;
+    height: 350px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+    border: 10px 10px 0px 0px solid red;
+    border-left-style: solid;
+    border-color: #F3D158;
+    border-bottom-style: solid;
+    background-color: #F5F5F5;
+    border-left-width: 8px;
+    border-width: 8px;
+  
+   
+}
+
+.imgbox
+{
+    width: 400px;
+
+}
+
+
+
+ .intro {
+    
+    padding: 70px;
+ }
+.hero {
+    display:flex;
+    align-items: center;
+    padding: 150px;
+}
+
+    
+  h1 {
+      font-size: 40px;
+      font-family: 'Russo One', sans-serif;
+      padding: 15px;
+  }  
+  
+  p {
+      font-size: 20px;
+      font-family: 'Amiko', sans-serif;
+      letter-spacing: 1px;
+  }
+/*-----skills----*/
+
+
+    
+
+.skills {
+    display:flex;
+    margin-top: 100px;
+    margin-right: 100px;
+    padding-right: auto;
+    padding-left: auto;
+   
+    
+
+}
+
+.skillimg1{
+    width: 75px;
+    display: block;
+    margin-left: 560%;
+    display: inline-block;
+    
+    
+}
+.skillimg2{
+    width: 75px;
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    display: inline-block;  
+    margin-left: 790%;   
+}
+
+
+.skillimg3{
+    width: 85px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    margin-left: 900%;
+    margin-top: -7px;
+
+}
+.skillimg4{
+    width: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    margin-left: 1250%;
+    
+}
+
+
+.images {
+    display: flex;
+}
+
+.card{
+    width: 23%;
+    background-color: #F6F6F6;
+    display: inline-block;
+    margin-left: 5%;
+    box-shadow: gray;
+    box-shadow: 0px 0px 5px 2px grey;
+    border: 10px 10px 0px 0px solid red;
+    border-left-style: solid;
+    border-color: #F3D158;
+    border-bottom-style: solid;
+    background-color: #F5F5F5;
+    border-left-width: 8px;
+    border-width: 8px;
+   
+}
+
+h2 {
+    text-align: center;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    font-family: 'Sahitya', serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 230px;
+
+}
+
+.title { 
+    text-align:center;
+    font-family: 'Sahitya', serif;
+    font-size: 20px;
+}
+
+ p {
+    text-align: justify; 
+    text-align-last: left;
+    font-family: 'Amiko', sans-serif;
+    font-size: 13px;
+    margin: 20px;
+    margin-top: 15px;
+
+}
+
+
+
+.des1 {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    margin: 20px;
+    margin-top: 15px;
+
+}
+
+
+ /*-----footer----*/
+ 
+ footer a {
+    text-decoration: none;
+    color: white;
+ }
+ a:hover {
+    color: #e85143;
+ }
+ 
+ #footer {
+    display: grid;
+    min-height:200px;
+    grid-auto-flow: column;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #373232;
+    
+ }
+ 
+ #link {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-auto-flow: column;
+    font-size: 20px;
+    grid-gap: 80px;
+    
+ }
+footer h3 {
+    font-size: 25px;
+    padding: 30px;
+    font-family: 'Sansita', sans-serif;
+    display: grid; 
+   justify-content: center;
+   margin-top: 75px;
+}
+.button1 {
+    border: none;
+    color: #121010;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    display: flex;
+    border-radius: 3px;
+    font-family: 'Amiko', sans-serif;
+    background-color:#61E1E9;
+  }
+ 
+  .img4 {
+    width: 30px;
+    margin-top: 150px;
+    margin-left: 150px;
+ }
+ .img5 {
+    width: 30px;
+    margin-top: 150px;
+ }
+ .img6 {
+    width: 30px;
+    margin-top: 150px;
+    
+ }
+
+ 
